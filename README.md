@@ -1,4 +1,1 @@
-# MyProjects
-trying to understand the role of README.md
-testing pull feature of git
-nfljvn
+These are my projects that i have made using HTML, CSS and JS.
